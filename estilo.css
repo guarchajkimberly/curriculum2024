@@ -1,7 +1,6 @@
 *{  margin: 0;
     box-sizing: border-box;
 }
-body { 
 @media (max-width:1420px){
 body{font-family: Arial, Helvetica, sans-serif;
     padding: 90px 20px 0;
